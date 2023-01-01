@@ -40,7 +40,7 @@ body {
   }
   .text {
     grid-area: text;
-    margin:20px;
+    margin: 14px
   }
   .text .date {
     color:grey;
@@ -73,7 +73,7 @@ body {
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     background: #202020;
-    margin: 10px 20px;
+    padding: 20px 20px;
 
   }
   
@@ -84,8 +84,8 @@ body {
     flex-direction: column;
   
     color: white;
-    padding: 0px;
-    margin: 2px;
+    padding: 10px;
+    margin: 0px;
   }
   .card:hover {
     transform: scale(1.15);
