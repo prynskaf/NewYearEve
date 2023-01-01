@@ -40,7 +40,7 @@ body {
   }
   .text {
     grid-area: text;
-    margin: 14px
+    margin: 10px
   }
   .text .date {
     color:grey;
